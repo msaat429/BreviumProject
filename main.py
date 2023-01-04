@@ -1,8 +1,6 @@
-import random
+import datetime
 
 import requests
-import datetime
-import uuid
 
 # api-endpoint
 token = "4ca5339a-7da4-46f9-81d1-076d4f681762"

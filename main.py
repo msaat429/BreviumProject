@@ -172,7 +172,7 @@ if __name__ == '__main__':
 
             request_list = []
 
-        # exist loop and display all data
+        # exit loop and display all data
         elif val == '5':
             r = requests.post(url=stop_string)
             response = r.json()
